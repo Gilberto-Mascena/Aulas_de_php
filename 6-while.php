@@ -16,3 +16,10 @@ $i = 0;
 do {
     echo $i;
 } while ($i < 10);
+
+#for
+
+echo "<br>for: ";
+for ($i = 0; $i < 10; $i++){
+   echo $i; 
+}
